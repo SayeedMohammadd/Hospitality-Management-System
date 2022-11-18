@@ -1,0 +1,14 @@
+        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                                                                         x
+x            ABOUT LIFECARE HOSPITAL PRIVATE LIMITED.                     x
+x                                                                         x
+x   Lifecare private hospital is a place which provides multi-tasking     x
+x   services for their patients. Lifecare hospital management system      x
+x   software is introduced for the betterment of the organization. by     x
+x   using this software they can manage the whole process of the          x
+x   hospital and patients can easily get their service.                   x
+x                                                                         x
+x   In addition to that this software is based on C++ language. This      x
+x   software is very user friendly.                                       x
+x                                                                         x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

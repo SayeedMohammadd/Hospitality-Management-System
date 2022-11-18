@@ -1,0 +1,60 @@
+BEGIN
+   PRING Welcome Banner
+   INPUT username , password
+    LOGIN (validation username && password)
+	IF (Login = "admin") 
+	   PRINT Selec Option
+	   GET chose option
+	   IF (Option = "1")
+		INPUT Patient Details
+		WRITE Patient Details
+	   ENDIF
+	   IF (Option = "2")
+		INPUT Doctor Details
+		WRITE Doctor Details
+	   ENDIF
+	   IF (Option = "3")
+		INPUT Diagnosis Details
+		WRITE Diagnosis Details
+	   ENDIF
+	   IF (Option = "4")
+		READ Patient Details
+		RRINT Patient Details
+	   ENDIF
+	   IF (Option = "5")
+		READ Doctor Details
+		RRINT Doctor Details
+	   ENDIF
+	   IF (Option = "6")
+		READ help
+		RRINT help
+	   ENDIF
+	   IF (Option = 7")
+		
+		
+	   ENDIF
+	ENDIF
+     ELSE (Login = "user")
+	  IF (Option = "1")
+		READ Patient Details
+		PRINT Patient Details
+	   ENDIF
+	   IF (Option = "2")
+		READ Doctor Details
+		PRINT Doctor Details
+	   ENDIF
+	   IF (Option = "3")
+		READ Diagnosis Details
+		PRINT Diagnosis Details
+	   ENDIF
+	   IF (Option = "4")
+		READ help
+		RRINT help
+	   ENDIF
+	   IF (Option = "5")
+           
+	   ENDIF
+	ENDIF
+END
+
+
